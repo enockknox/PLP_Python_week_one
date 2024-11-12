@@ -1,8 +1,8 @@
 # Basic Calculator Program
 
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
-operation = input("Enter an operation (+, -, *, /): ")
+num1 = float(input("34 "))
+num2 = float(input("6"))
+operation = input("(+, -, *, /): ")
 
 # Perform the operation and display the result
 if operation == '+':
